@@ -14,3 +14,4 @@ It'll install all 3 Packages
 ```sh
 node index.js 'Sample text of some language here'
 ```
+We can also use [nodemon](https://www.npmjs.com/package/nodemon), instead of node, in the above line
